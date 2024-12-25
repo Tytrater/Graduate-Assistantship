@@ -1,0 +1,105 @@
+           monday  tuesday wednesday thursday   friday saturday   sunday
+00:00:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+00:15:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+00:30:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+00:45:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+01:00:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+01:15:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+01:30:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+01:45:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+02:00:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+02:15:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+02:30:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+02:45:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+03:00:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+03:15:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+03:30:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+03:45:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+04:00:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+04:15:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+04:30:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+04:45:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+05:00:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+05:15:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+05:30:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+05:45:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+06:00:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+06:15:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+06:30:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+06:45:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+07:00:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+07:15:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+07:30:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+07:45:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+08:00:00    sleep    sleep     sleep    sleep    sleep    sleep    sleep
+08:15:00     meal     meal      meal     meal     meal     meal     meal
+08:30:00     meal     meal      meal     meal     meal     meal     meal
+08:45:00     meal     meal      meal     meal     meal     meal     meal
+09:00:00     swim     swim      swim     swim     swim     swim     swim
+09:15:00     swim     swim      swim     swim     swim     swim     swim
+09:30:00     swim     swim      swim     swim     swim     swim     swim
+09:45:00     swim     swim      swim     swim     swim     swim     swim
+10:00:00     swim     swim      swim     swim     swim     swim     swim
+10:15:00     swim     swim      swim     swim     swim     swim     swim
+10:30:00     meal     meal      meal     meal     meal     meal     meal
+10:45:00     meal     meal      meal     meal     meal     meal     meal
+11:00:00     meal     meal      meal     meal     meal     meal     meal
+11:15:00     meal     meal      meal     meal     meal     meal     meal
+11:30:00    IS491  leisure     IS491  leisure   MIS761  leisure  leisure
+11:45:00    IS491  leisure     IS491  leisure   MIS761  leisure  leisure
+12:00:00    IS491  leisure     IS491  leisure   MIS761  leisure  leisure
+12:15:00    IS491  leisure     IS491  leisure   MIS761  leisure  leisure
+12:30:00    IS491  leisure     IS491  leisure   MIS761  leisure  leisure
+12:45:00    IS491  leisure     IS491  leisure   MIS761  leisure  leisure
+13:00:00    IS491  leisure     IS491  leisure   MIS761  leisure  leisure
+13:15:00    IS491  leisure     IS491  leisure   MIS761  leisure  leisure
+13:30:00    IS491  leisure     IS491  leisure   MIS761  leisure  leisure
+13:45:00    IS491  leisure     IS491  leisure   MIS761  leisure  leisure
+14:00:00    IS491  leisure     IS491  leisure   MIS761  leisure  leisure
+14:15:00    IS491  leisure     IS491  leisure   MIS761  leisure  leisure
+14:30:00     meal     meal      meal     meal     meal     meal     meal
+14:45:00     meal     meal      meal     meal     meal     meal     meal
+15:00:00     meal     meal      meal     meal     meal     meal     meal
+15:15:00  leisure  leisure   leisure  leisure    IS491  leisure  leisure
+15:30:00  leisure  leisure   leisure  leisure    IS491  leisure  leisure
+15:45:00  leisure  leisure   leisure  leisure    IS491  leisure  leisure
+16:00:00  leisure  leisure   leisure  leisure    IS491  leisure  leisure
+16:15:00  leisure  leisure   leisure  leisure    IS491  leisure  leisure
+16:30:00  leisure  leisure   leisure  leisure    IS491  leisure  leisure
+16:45:00     meal     meal      meal     meal     meal     meal     meal
+17:00:00     meal     meal      meal     meal     meal     meal     meal
+17:15:00     meal     meal      meal     meal     meal     meal     meal
+17:30:00  leisure   ECO772   leisure   ECO772  leisure  leisure  leisure
+17:45:00  leisure   ECO772   leisure   ECO772  leisure  leisure  leisure
+18:00:00  leisure   ECO772   leisure   ECO772   MIS761  leisure  leisure
+18:15:00  leisure   ECO772   leisure   ECO772   MIS761  leisure  leisure
+18:30:00  leisure   ECO772   leisure   ECO772   MIS761  leisure  leisure
+18:45:00  leisure   ECO772   leisure   ECO772   MIS761  leisure  leisure
+19:00:00   MIS781  leisure   leisure  leisure   MIS761  leisure  leisure
+19:15:00   MIS781  leisure   leisure  leisure   MIS761  leisure  leisure
+19:30:00   MIS781  leisure   leisure  leisure   MIS761  leisure  leisure
+19:45:00   MIS781  leisure   leisure  leisure   MIS761  leisure  leisure
+20:00:00   MIS781  leisure   leisure  leisure   MIS761  leisure  leisure
+20:15:00   MIS781  leisure   leisure  leisure   MIS761  leisure  leisure
+20:30:00   MIS781  leisure   leisure  leisure   MIS761  leisure  leisure
+20:45:00   MIS781  leisure   leisure  leisure   MIS761  leisure  leisure
+21:00:00   MIS781  leisure   leisure  leisure   MIS761  leisure  leisure
+21:15:00   MIS781  leisure   leisure  leisure   MIS761  leisure  leisure
+21:30:00   MIS781  leisure   leisure  leisure   MIS761  leisure  leisure
+21:45:00   MIS781  leisure   leisure  leisure  leisure  leisure  leisure
+22:00:00  leisure  leisure   leisure  leisure  leisure  leisure  leisure
+22:15:00  leisure  leisure   leisure  leisure  leisure  leisure  leisure
+22:30:00  leisure  leisure   leisure  leisure  leisure  leisure  leisure
+22:45:00  leisure  leisure   leisure  leisure  leisure  leisure  leisure
+23:00:00  leisure  leisure   leisure  leisure  leisure  leisure  leisure
+         count  goal
+sleep    57.75  56.0
+leisure  51.50  28.0
+meal     22.75  22.0
+swim     10.50  10.0
+IS491     7.50   6.7
+MIS761    6.75   6.7
+ECO772    3.00  12.0
+MIS781    3.00  12.0
+target hours: 153.4
+excess leisure: 33.5
